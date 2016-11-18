@@ -1,0 +1,6 @@
+[package]
+name = "avrvm"
+version = "0.1.0"
+authors = ["Senthil Kumar Selvaraj <senthil.thecoder@gmail.com>"]
+
+[dependencies]
